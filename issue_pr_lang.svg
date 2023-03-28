@@ -123,9 +123,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="435.9261974376241" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="435.9261974376241" y="0" width="12.906412759029264" height="8" fill="#012456"/>
-                    <rect mask="url(#languages-bar)" x="448.8326101966534" y="0" width="11.167389803346602" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="435.7828303399546" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="435.7828303399546" y="0" width="12.983274523338922" height="8" fill="#012456"/>
+                    <rect mask="url(#languages-bar)" x="448.76610486329355" y="0" width="11.23389513670644" height="8" fill="#89e051"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
